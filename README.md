@@ -43,4 +43,4 @@ A dual-port RAM allowing **concurrent** access from two independent ports (Port 
 
 ###  Testbench: `DualPortRam_tb.v`
 
-The testbench is structured using  tasks to improve modularity and reusability. Tasks handle:
+The testbench is structured using  tasks to improve modularity and reusability. 
