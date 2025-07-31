@@ -3,15 +3,15 @@ A Basic parameterized RAM verilog implementation.
 
 This repository contains Verilog implementations and testbenches for:
 
-- ✅ **Single-Port RAM**
-- ✅ **Dual-Port RAM**
+-  **Single-Port RAM**
+-  **Dual-Port RAM**
 
 
 ##  Single-Port RAM
 
 ###  Description
 
-A simple single-port RAM supporting read and write operations on the same port. Useful for small embedded memory use-cases.
+A simple single-port RAM supporting read and write operations on the same port. 
 
 ###  Features
 
